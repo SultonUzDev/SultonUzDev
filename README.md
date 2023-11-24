@@ -1,7 +1,7 @@
 My name is **Sulton**. I am ✨ **Android developer**✨.
 <br/>
 
-![Sulton UzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SultonUzDev&show_icons=true&theme=transparent)
+![Sulton UzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SultonUzDev&show_icons=true&theme=shadow_green)
 <br/>
 
 **About me:**
