@@ -3,7 +3,7 @@ My name is **Sulton**. I am ✨ **Android developer**✨.
 
 ![Sulton UzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SultonUzDev&show_icons=true&theme=shadow_green)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SultonUzDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SultonUzDev&layout=compact))](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 **About me:**
