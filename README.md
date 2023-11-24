@@ -1,6 +1,9 @@
 My name is **Sulton**. I am ✨ **Android developer**✨.
 <br/>
 
+![Sulton UzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=SultonUzDev&show_icons=true&theme=transparent)
+<br/>
+
 **About me:**
 - 🏢 I’m currently working on **CSEC UZ**. I have been working there since **2021**.
 - 🌱 I’m currently learning **ML, DL** and also new Android Development skills.
