@@ -2,7 +2,7 @@ My name is **Sulton**. I am ✨ **Android developer**✨.
 <br/>
 
 **About me:**
-- 🔭 I’m currently working on **CSEC UZ**. I have been working there since **2021**.
+- 🏢 I’m currently working on **CSEC UZ**. I have been working there since **2021**.
 - 🌱 I’m currently learning **ML, DL** and also new Android Development skills.
 <br/>
 
