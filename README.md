@@ -13,6 +13,14 @@
 - 💡 **Passionate about:** Building innovative mobile solutions & AI integration
 - 🔥 **Open to:** Startup collaborations, open source projects & custom development work
 - 📍 **Location:** Uzbekistan 🇺🇿
+- 
+---
+
+## 📱 My apps ⬇️
+
+<a href="https://play.google.com/store/apps/developer?id=Sulton+UzDev">
+  <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>
+</a>
 
 ---
 
@@ -111,20 +119,6 @@ val sultonServices = listOf(
 - 🌟 **Favorite quote:** *"Code is like humor. When you have to explain it, it's bad."*
 - ☕ **Fuel:** Coffee and clean code
 - 🎮 **When not coding:** Learning new technologies or exploring AI trends
-
----
-
-<p align="center">
-  
-### 🌟 "Ready to collaborate on your next big idea!" 🌟
-
-<img src="https://komarev.com/ghpvc/?username=SultonUzDev&color=brightgreen&style=flat-square" alt="Profile Views" />
-
-</p>
-
-<p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Coding Animation" />
-</p>
 
 ---
 
