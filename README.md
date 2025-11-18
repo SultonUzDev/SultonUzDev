@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 
-- 🏢 **Currently working at** [CSEC UZ](https://github.com/SultonUzDev) since **2021**
 - 🌱 **Learning:** Machine Learning, Deep Learning & Advanced Android Development
 - 💡 **Passionate about:** Building innovative mobile solutions & AI integration
 - 🔥 **Open to:** Startup collaborations, open source projects & custom development work
