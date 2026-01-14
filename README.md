@@ -204,33 +204,6 @@ class Developer(val name: String = "Sulton") {
 
 ---
 
-## 💭 Favorite Quote
-
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
----
-
-<details>
-<summary>📈 More GitHub Stats & Achievements</summary>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SultonUzDev&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SultonUzDev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-### 📊 Contribution Insights
-- 🔥 Consistent contributor across multiple projects
-- 🌟 Active in open source community
-- 📚 Regular knowledge sharing through documentation
-- 🤝 Collaborative team player
-
-</details>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SultonUzDev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -239,8 +212,4 @@ class Developer(val name: String = "Sulton") {
   <i>⭐️ If you find my work interesting, feel free to star some repositories! ⭐️</i>
 </p>
 
----
 
-<p align="center">
-  Made with ❤️ by Sulton | Last updated: January 2026
-</p>
