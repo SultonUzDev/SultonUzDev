@@ -7,18 +7,17 @@
 ---
 
 ## 🚀 About Me
+I'm a passionate Android developer with 4+ years of professional experience building robust, user-centric mobile applications. I hold a Master's degree in Computer Technologies in Medicine, where I developed AI models for gastrointestinal disease detection from endoscopic images.
 
-I'm a passionate Android developer with **4+ years of professional experience** building robust, user-centric mobile applications. Currently pursuing my **Master's in Computer Technologies in Medicine**, where I'm developing AI models for gastrointestinal disease detection from endoscopic images.
-
-- 💼 **Experience:** 4+ years of professional Android development with Kotlin
-- 🎓 **Education:** Master's in Computer Technologies in Medicine
-- 🔬 **Research:** AI-powered medical imaging for gastrointestinal disease detection
-- 📱 **Published:** Multiple apps on Google Play with thousands of downloads
-- 🍎 **New Journey:** Recently joined Apple Developer Program to expand into iOS development
-- 🎯 **Expertise:** Clean Architecture, MVVM/MVI, Jetpack Compose, Multi-module Architecture, KMP
-- 🌱 **Currently Learning:** Flutter & Cross-platform Development
-- 📍 **Location:** Uzbekistan 🇺🇿
-- 💡 **Open to:** Freelance projects, consultations, and collaborations
+💼 Experience: 4+ years of professional Android development with Kotlin
+🎓 Education: Master's in Computer Technologies in Medicine ✅
+🔬 Research: AI-powered medical imaging for gastrointestinal disease detection
+📱 Published: Multiple apps on Google Play with thousands of downloads
+🍎 New Journey: Recently joined Apple Developer Program to expand into iOS development
+🎯 Expertise: Clean Architecture, MVVM/MVI, Jetpack Compose, Multi-module Architecture
+🌱 Currently Learning: Flutter & Cross-platform Development
+📍 Location: Uzbekistan 🇺🇿
+💡 Open to: Freelance projects, consultations, and collaborations
 
 ---
 
