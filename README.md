@@ -117,19 +117,6 @@ val androidExpertise = mapOf(
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SultonUzDev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultonUzDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SultonUzDev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🎯 Notable Projects & Contributions
 
 ### 🏗️ Architecture Showcase
