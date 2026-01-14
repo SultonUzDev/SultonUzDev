@@ -1,45 +1,113 @@
 # Hi there, I'm Sulton! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ED573&center=true&vCenter=true&width=435&lines=Android+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ED573&center=true&vCenter=true&width=435&lines=Senior+Android+Developer;Medical+AI+Researcher;4%2B+Years+of+Kotlin+Expertise;iOS+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 **Learning:** Machine Learning, Deep Learning & Advanced Android Development
-- 💡 **Passionate about:** Building innovative mobile solutions & AI integration
-- 🔥 **Open to:** Startup collaborations, open source projects & custom development work
+I'm a passionate Android developer with **4+ years of professional experience** building robust, user-centric mobile applications. Currently pursuing my **Master's in Computer Technologies in Medicine**, where I'm developing AI models for gastrointestinal disease detection from endoscopic images.
+
+- 💼 **Experience:** 4+ years of professional Android development with Kotlin
+- 🎓 **Education:** Master's in Computer Technologies in Medicine (In Progress)
+- 🔬 **Research:** AI-powered medical imaging for gastrointestinal disease detection
+- 📱 **Published:** Multiple apps on Google Play with thousands of downloads
+- 🍎 **New Journey:** Recently joined Apple Developer Program to expand into iOS development
+- 🎯 **Expertise:** Clean Architecture, MVVM/MVI, Jetpack Compose, Multi-module Architecture
+- 🌱 **Currently Learning:** Flutter & Cross-platform Development
 - 📍 **Location:** Uzbekistan 🇺🇿
-- 
+- 💡 **Open to:** Freelance projects, consultations, and collaborations
+
 ---
 
-## 📱 My apps ⬇️
+## 📱 My Published Apps
 
 <a href="https://play.google.com/store/apps/developer?id=Sulton+UzDev">
   <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>
 </a>
 
+### 🌟 Featured Applications
+
+#### 📊 **CoreDroid Lite** - Device Information Hub
+- 🏗️ **24-module** architecture showcasing advanced Android patterns
+- 📱 Comprehensive device information in one place
+- 🎨 Modern UI with Material Design 3
+- ⚡ Optimized performance and clean code
+
+#### ⏱️ **Pomodoro Focus Timer**
+- 🎯 Productivity-focused timer application
+- 🔔 Smart notifications and task management
+- 📈 Statistics and productivity tracking
+
+#### 💼 **PHIX - Job Portal**
+- 💬 **Real-time chat** integration
+- 📹 **Video calling** powered by Agora SDK
+- 🔐 Secure authentication system
+- 🏢 Complete job search and application platform
+
+#### 📚 **Military Dictionary**
+- 📖 Comprehensive military terminology database
+- 🔍 Fast search and filtering
+- 💾 Offline functionality
+
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Services
 
-<p align="center">
+### 📱 Google Play Publishing Consultation
 
-### Languages & Frameworks
-<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+I offer expert consultation for Google Play app publishing with a **proven track record of zero app rejections** after implementing recommended fixes.
+
+**Services Include:**
+- ✅ Pre-launch app review and optimization
+- 🎯 Play Store listing optimization (ASO)
+- 📝 Policy compliance review
+- 🚀 Launch strategy and best practices
+- 🔧 Post-launch support and updates
+
+**Why Work With Me?**
+- 🏆 4+ years of Android development experience
+- ✨ Multiple successfully published apps
+- 🎯 Zero rejections after implementing recommended fixes
+- 📈 Expertise in Play Store policies and guidelines
+
+💬 *Interested? Let's discuss your project!*
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### 📱 Android Development
+```kotlin
+val androidExpertise = mapOf(
+    "Languages" to listOf("Kotlin", "Java"),
+    "Architecture" to listOf("Clean Architecture", "MVVM", "MVI", "Multi-module"),
+    "UI" to listOf("Jetpack Compose", "XML", "Material Design 3"),
+    "Async" to listOf("Coroutines", "Flow", "RxJava"),
+    "DI" to listOf("Hilt", "Dagger", "Koin"),
+    "Database" to listOf("Room", "SQLite", "DataStore"),
+    "Network" to listOf("Retrofit", "OkHttp", "Ktor"),
+    "Testing" to listOf("JUnit", "Mockito", "Espresso"),
+    "Firebase" to listOf("Auth", "Firestore", "Realtime DB", "Cloud Messaging"),
+    "Media" to listOf("Agora SDK", "ExoPlayer"),
+    "Auth" to listOf("Google Sign-In", "Firebase Auth")
+)
+```
+
+### 🤖 AI & Machine Learning
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-
-### Tools & Technologies
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
 
-</p>
+- 🔬 Medical imaging analysis with deep learning
+- 📊 Healthcare data processing and classification
+- 🧠 CNN architectures for disease detection
+
+### 🌐 Cross-Platform (Learning)
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 
 ---
 
@@ -56,21 +124,33 @@
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Notable Projects & Contributions
 
-### 📱 Mobile Development
-- 🔨 **Building innovative Android apps** with modern architecture patterns
-- 🎨 **UI/UX focused development** using Material Design principles
-- ⚡ **Performance optimization** and clean code practices
+### 🏗️ Architecture Showcase
+- **Clean Architecture Implementation** with multi-module structure
+- **Jetpack Compose** modern UI applications
+- **Real-time Communication** with WebRTC and Agora
+- **Offline-first** applications with Room and sync strategies
 
-### 🤖 AI & Machine Learning
-- 🧠 **Exploring ML/DL applications** in mobile development
-- 📚 **Continuous learning** in artificial intelligence
-- 🔗 **Check out my AI guide:** [Claude Prompting Guide](https://sultonuzdev.github.io/claude-prompting-guide/)
+### 🤖 Automation & Tools
+- **Instagram Bot** - Modified GramAddict for Instagram automation
+- **YouTube Automation** - Custom bot development
+- **CI/CD Pipelines** - Automated app deployment
 
-<p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="AI Animation" />
-</p>
+### 📚 Knowledge Sharing
+- 🔗 **[Claude Prompting Guide](https://sultonuzdev.github.io/claude-prompting-guide/)** - Comprehensive AI prompting resource
+- 📝 Technical articles and documentation
+- 🎓 Mentoring aspiring Android developers
+
+---
+
+## 💡 What I'm Working On
+
+- 🔬 Developing AI models for gastrointestinal disease detection
+- 📱 Expanding into iOS development with Swift
+- 🌐 Learning Flutter for cross-platform development
+- 📊 Building SaaS products for developers
+- 🎯 Growing my freelance consultation business
 
 ---
 
@@ -97,32 +177,48 @@
 
 ---
 
-## 💼 What I Offer
+## 🎨 Development Philosophy
 
 ```kotlin
-val sultonServices = listOf(
-    "📱 Android App Development",
-    "🎨 UI/UX Implementation", 
-    "🤖 AI Integration in Mobile Apps",
-    "🔧 Code Review & Optimization",
-    "🚀 Startup Technical Consulting",
-    "📖 Technical Documentation"
-)
+class Developer(val name: String = "Sulton") {
+    val principles = listOf(
+        "Clean, maintainable code over quick hacks",
+        "User experience is paramount",
+        "Continuous learning and adaptation",
+        "Test early, test often",
+        "Documentation is love for future developers"
+    )
+    
+    fun approach() = """
+        I believe in building applications that are not just functional,
+        but delightful to use and easy to maintain. Every line of code
+        should serve a purpose, and every feature should solve a real problem.
+    """.trimIndent()
+}
 ```
 
 ---
 
-## 🎨 Fun Facts
+## 🏆 Achievements & Milestones
 
-- 🎯 **Goal:** Contributing to 100+ open source projects
-- 🌟 **Favorite quote:** *"Code is like humor. When you have to explain it, it's bad."*
-- ☕ **Fuel:** Coffee and clean code
-- 🎮 **When not coding:** Learning new technologies or exploring AI trends
+- ✅ **4+ Years** of professional Android development
+- 📱 **Multiple apps** published on Google Play
+- 🎓 **Master's degree** in progress (Medical AI)
+- 🏆 **Zero app rejections** after implementing fixes
+- 📚 Created comprehensive prompting guide
+- 🍎 Joined Apple Developer Program
+- 🌟 Building a growing freelance business
+
+---
+
+## 💭 Favorite Quote
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 ---
 
 <details>
-<summary>📈 More GitHub Stats</summary>
+<summary>📈 More GitHub Stats & Achievements</summary>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SultonUzDev&theme=react-dark&hide_border=true" alt="Activity Graph" />
@@ -132,4 +228,26 @@ val sultonServices = listOf(
   <img src="https://github-profile-trophy.vercel.app/?username=SultonUzDev&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
+### 📊 Contribution Insights
+- 🔥 Consistent contributor across multiple projects
+- 🌟 Active in open source community
+- 📚 Regular knowledge sharing through documentation
+- 🤝 Collaborative team player
+
 </details>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SultonUzDev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>⭐️ If you find my work interesting, feel free to star some repositories! ⭐️</i>
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by Sulton | Last updated: January 2026
+</p>
