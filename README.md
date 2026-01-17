@@ -22,23 +22,10 @@ I'm a passionate Android developer with 4+ years of professional experience buil
 ---
 ## 📱 My Published Apps
 
-<div style="display:flex; gap:16px; align-items:center;">
-  <a href="https://play.google.com/store/apps/developer?id=Sulton+UzDev" target="_blank">
-    <img
-      alt="Get it on Google Play"
-      src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
-      height="60"
-    />
-  </a>
+| Google Play | App Store |
+|------------|-----------|
+| <a href="https://play.google.com/store/apps/developer?id=Sulton+UzDev"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60"/></a> | <a href="https://apps.apple.com/us/app/memento-event-tracker/id6757809122"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="60"/></a> |
 
-  <a href="https://apps.apple.com/us/app/memento-event-tracker/id6757809122" target="_blank">
-    <img
-      alt="Download on the App Store"
-      src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg"
-      height="60"
-    />
-  </a>
-</div>
 
 
 
