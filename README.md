@@ -24,7 +24,7 @@ I'm a passionate Android developer with 4+ years of professional experience buil
 
 | Google Play | App Store |
 |------------|-----------|
-| <a href="https://play.google.com/store/apps/developer?id=Sulton+UzDev"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60"/></a> | <a href="https://apps.apple.com/us/app/memento-event-tracker/id6757809122"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="60"/></a> |
+| <a href="https://play.google.com/store/apps/developer?id=Sulton+UzDev"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="60"/></a> | <a href="https://apps.apple.com/us/developer/sulton-gafurov/id1869050446"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="60"/></a> |
 
 
 
