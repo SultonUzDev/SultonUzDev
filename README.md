@@ -1,7 +1,7 @@
 # Hi there, I'm Sulton! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ED573&center=true&vCenter=true&width=435&lines=Senior+Android+Developer;Medical+AI+Researcher;4%2B+Years+of+Kotlin+Expertise;iOS+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ED573&center=true&vCenter=true&width=435&lines=Senior+Android+Developer;4%2B+Years+of+Kotlin+Expertise;KMP+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
